@@ -115,14 +115,13 @@
 <h2>📊 GitHub Statistics and Analysis</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=noman2347&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noman2347&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/profile-details?username=noman2347&theme=tokyonight" alt="GitHub Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=noman2347&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=noman2347&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noman2347&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
 <!-- ===================== FOOTER ===================== -->
 
 <br/>
