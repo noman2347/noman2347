@@ -59,7 +59,7 @@
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+<a href="https://www.linkedin.com/in/md-noman-chowdhury-ba4b5a394" target="_blank">
   <img
     src="https://skillicons.dev/icons?i=linkedin"
     width="45"
