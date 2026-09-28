@@ -1,63 +1,193 @@
-<!-- ================= BANNER ================= -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/noman2347/noman2347/main/banner.png" alt="Md Noman - Full Stack Developer" width="100%" />
-</p>
+<!-- ===================== HERO ===================== -->
 
-<h2 align="center">👋 Hello! I'm Md Noman</h2>
-<p align="center"><b>Full Stack Web Engineering Learner @ Programming Hero</b></p>
-<p align="center">📍 Raozan, Chattogram, Bangladesh &nbsp;|&nbsp; 📫 <a href="mailto:noman19776850@gmail.com">noman19776850@gmail.com</a></p>
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:0066FF,100:00D9FF&height=220&section=header&text=Nayem%20Hasan&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=65&descSize=22"
+  width="100%"
+/>
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Member+at+iLabs360;Passionate+Full+Stack+Web+Developer;JavaScript+Enthusiast;Interested+in+Software+Engineering"
+    alt="Typing SVG"
+  />
+</a>
+
+</div>
+
+<br/>
+
+
+<!-- ===================== ABOUT ME ===================== -->
+
+<h2 align="center">👋 Hello! I'm Nayem Hasan</h2>
+
+<p align="center">
+  <b>Full Stack Developer</b>
+</p>
 
 <hr/>
 
-<!-- ================= ABOUT ME ================= -->
-<h3>🚀 About Me</h3>
-<ul>
-  <li>🔭 I'm currently working on my own <b>skill development</b></li>
-  <li>🌱 I'm currently learning <b>Full Stack Web Development</b></li>
-  <li>⚛️ Currently learning the <b>MERN-style stack</b> at <b>Programming Hero</b></li>
-  <li>🛠️ Building projects with <b>HTML, CSS, JavaScript, TypeScript, React, Node.js &amp; MySQL</b></li>
-  <li>💬 Ask me about <b>Web Development</b></li>
-  <li>🎯 Open to <b>junior frontend / full-stack</b> opportunities</li>
-  <li>⚡ Always learning, building and improving my skills</li>
-</ul>
+<table>
+<tr>
 
-<!-- ================= SKILLS ================= -->
-<h3 align="left">🧰 Skills</h3>
+<td width="55%" valign="top">
+
+### 🚀 About Me
+
+- 🔭 I'm currently working on my own **skill development**
+- 🌱 I'm currently learning **Advanced Web and App Development**
+- 💬 Ask me about **Web and App Development**
+- 🎓 I was a student of **Firoza Basher Ideal College**
+- 🏫 Currently studying at **Daffodil Polytechnic Institute**
+- 💻 My learning platform is **Ostad**
+- 🎨 Learned Figma UI/UX Design from **Udemy**
+- 📱 Learned Mobile App Development from **Interactive Cares**
+- 💻 Currently learning **MERN Stack** from **Programming Hero**
+- ⚡ Always learning, building and improving my skills
+
+</td>
+
+<td width="45%" align="center">
+
+<img
+  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
+  width="380"
+/>
+
+</td>
+
+</tr>
+</table>
+
+
+<!-- ===================== SOCIAL ===================== -->
+
+<h2>🌐 Connect With Me</h2>
+
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/></a>&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/></a>&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/></a>&nbsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/></a>&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/></a>&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/></a>&nbsp;
-  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/></a>
+
+<a href="https://github.com/code-craft-nayem" target="_blank">
+  <img
+    src="https://skillicons.dev/icons?i=github"
+    width="45"
+  />
+</a>
+
+<a href="https://www.linkedin.com/" target="_blank">
+  <img
+    src="https://skillicons.dev/icons?i=linkedin"
+    width="45"
+  />
+</a>
+
+<a href="https://discord.com/" target="_blank">
+  <img
+    src="https://skillicons.dev/icons?i=discord"
+    width="45"
+  />
+</a>
+
+<a href="https://dev.to/" target="_blank">
+  <img
+    src="https://skillicons.dev/icons?i=devto"
+    width="45"
+  />
+</a>
+
+<a href="https://stackoverflow.com/" target="_blank">
+  <img
+    src="https://skillicons.dev/icons?i=stackoverflow"
+    width="45"
+  />
+</a>
+
 </p>
 
-<!-- ================= SOCIAL LINKS ================= -->
-<h3 align="left">🌐 Connect With Me</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:noman19776850@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/noman2347" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <!-- Optional: uncomment and add your links -->
-  <!-- <a href="https://facebook.com/YOUR-HANDLE" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a> -->
-  <!-- <a href="https://YOUR-PORTFOLIO-LINK" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a> -->
+
+<!-- ===================== TECHNOLOGY STACK ===================== -->
+
+<h2>🧰 Technology Stack</h2>
+
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" />
 </p>
 
-<!-- ================= GITHUB STATS ================= -->
-<h3 align="left">📊 GitHub Stats</h3>
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=noman2347&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" />
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noman2347&layout=compact&theme=tokyonight&hide_border=true&locale=en" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=noman2347&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+### 🎨 CSS Frameworks and Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui" />
 </p>
 
-<!-- ================= FOOTER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:8E00FF&height=60&section=footer" width="100%" alt="footer" />
+
+### ⚛️ JavaScript Frameworks and Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express" />
 </p>
+
+
+### 🗄️ Database and ORM
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase" />
+</p>
+
+
+### 🚀 Deployment Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" />
+</p>
+
+<!-- ===================== GITHUB CONTRIBUTIONS ===================== -->
+
+<h2>📊 GitHub Statistics and Analysis</h2>
+
+<h3>🐍 GitHub Contributions</h3>
+
+<p align="center">
+
+<img
+  src="https://raw.githubusercontent.com/code-craft-nayem/code-craft-nayem/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+/>
+
+</p>
+
+
+### 🎨 Design and Graphics
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
+</p>
+
+
+### 🛠️ Tools and Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,windows,ubuntu,notion" />
+</p>
+
+
+<!-- ===================== FOOTER ===================== -->
+
+<br/>
+
+<div align="center">
+
+<h3>💙 Thanks for visiting my profile!</h3>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0066FF,100:7F00FF&height=120&section=footer"
+  width="100%"
+/>
+
+</div>
