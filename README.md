@@ -1,11 +1,8 @@
 <!-- ===================== HERO ===================== -->
 
-<div align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:0066FF,100:00D9FF&height=220&section=header&text=Md%20Noman&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Web%20Developer%20(Learner)&descAlignY=65&descSize=22"
-  width="100%"
-/>
+<div <p align="center">
+  <img src="https://raw.githubusercontent.com/noman2347/noman2347/main/banner.png" width="100%" alt="Banner" />
+</p>
 
 <br/>
 
