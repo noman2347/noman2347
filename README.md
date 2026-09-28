@@ -1,29 +1,25 @@
-<<!-- ===================== HERO ===================== --> <div align="center">
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Razibul-Hasan/Razibul-Hasan/main/assets/banner-dark.svg" /> <img alt="Razibul Hasan — WordPress Developer. Available for freelance and remote work. Gazipur, Bangladesh." src="https://raw.githubusercontent.com/Razibul-Hasan/Razibul-Hasan/main/assets/banner-light.svg" width="100%" /> </picture>
+About
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:0066FF,100:00D9FF&height=220&section=header&text=Md%20Noman&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Web%20Developer%20(Learner)&descAlignY=65&descSize=22" width="100%" />
+I build custom WordPress plugins, themes and WooCommerce & Shopify stores. I care about code that's fast, readable and easy to hand over — the kind the next developer is glad to inherit. Lately I've been pairing WordPress with React and TypeScript, and spending more time in Next.js.
 
-<br/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Engineering+Learner+%40+Programming+Hero;Passionate+Web+Developer;JavaScript+%26+TypeScript+Enthusiast;Building+MERN-style+Projects" alt="Typing SVG" /> </a> </div> <br/> <!-- ===================== ABOUT ME ===================== --> <h2 align="center">👋 Hi, I'm Md Noman</h2> <p align="center"> <b>Full Stack Web Engineering Learner @ Programming Hero</b><br/> Raozan, Chattogram, Bangladesh </p> <hr/> <table> <tr> <td width="55%" valign="top">
-🚀 About Me
-👨‍💻 I'm a passionate web development learner from Bangladesh who loves turning ideas into clean, responsive and scalable web experiences
-🔭 I'm currently building my full-stack skills and actively looking for junior frontend / full-stack opportunities
-🌱 I'm currently learning the MERN-style stack: React, Node.js and MySQL
-🛠️ I'm building portfolio and practice projects with JavaScript and TypeScript
-📚 I'm improving my problem-solving skills and writing cleaner code every day
-⚡ Always learning, building and improving my skills
-</td> <td width="45%" align="center">
+Now
+Building WordPress plugins with React-powered admin panels
+Working on a Next.js + TypeScript project
+Taking on freelance and remote work — email me
+Selected work
+<a href="https://github.com/Razibul-Hasan/SnapBook"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Razibul-Hasan/Razibul-Hasan/main/assets/work-snapbook-dark.svg" /> <img alt="SnapBook — booking engine for photography studios. Packages, add-ons, availability, e-signed contracts and deposits on one page. PHP, WooCommerce, JavaScript." src="https://raw.githubusercontent.com/Razibul-Hasan/Razibul-Hasan/main/assets/work-snapbook-light.svg" width="100%" /> </picture> </a> <!-- Keep these two links on one line with nothing between them: the gap is built into the SVGs. -->
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="380" />
+<a href="https://github.com/Razibul-Hasan/Wordpress-React-Plugin-Boilerplate"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Razibul-Hasan/Razibul-Hasan/main/assets/work-boilerplate-dark.svg" /><img alt="WP React Plugin Boilerplate — React admin dashboard, PSR-style autoloader, REST namespace and a webpack + gulp build. PHP, React, REST API, webpack." src="https://raw.githubusercontent.com/Razibul-Hasan/Razibul-Hasan/main/assets/work-boilerplate-light.svg" width="49.9%" /></picture></a><a href="https://github.com/Razibul-Hasan/Assignment-06-B14"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Razibul-Hasan/Razibul-Hasan/main/assets/work-fitlog-dark.svg" /><img alt="FitLog — workout library and daily planner on the Next.js App Router. Next.js, TypeScript, Tailwind, daisyUI." src="https://raw.githubusercontent.com/Razibul-Hasan/Razibul-Hasan/main/assets/work-fitlog-light.svg" width="49.9%" /></picture></a>
 
-</td> </tr> </table> <!-- ===================== SOCIAL ===================== --> <h2>🌐 Connect With Me</h2> <p align="left"> <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" width="45" /> </a> <a href="https://github.com/noman2347" target="_blank"> <img src="https://skillicons.dev/icons?i=github" width="45" /> </a> <a href="mailto:noman19776850@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" width="45" /> </a> </p> <!-- ===================== TECHNOLOGY STACK ===================== --> <h2>🧰 Technology Stack</h2>
-💻 Languages
-<p> <img src="https://skillicons.dev/icons?i=html,css,js,ts" /> </p>
-⚛️ Frameworks and Libraries
-<p> <img src="https://skillicons.dev/icons?i=react,nodejs" /> </p>
-🗄️ Database
-<p> <img src="https://skillicons.dev/icons?i=mysql" /> </p>
-🛠️ Tools and Technologies
-<p> <img src="https://skillicons.dev/icons?i=git,github" /> </p> <!-- ===================== GITHUB STATS ===================== --> <h2>📊 GitHub Statistics and Analysis</h2> <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=noman2347&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noman2347&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=noman2347&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p> <!-- ===================== FOOTER ===================== --> <br/> <div align="center"> <h3>💙 Thanks for visiting my profile!</h3>
+Stack
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Razibul-Hasan/Razibul-Hasan/main/assets/stack-dark.svg" /> <img alt="Stack — CMS & Commerce: WordPress, WooCommerce, Elementor, Shopify. Backend: PHP, MySQL, REST API. Frontend: JavaScript, TypeScript, React, Next.js. Styling: Tailwind CSS, SCSS, HTML & CSS. Workflow: Git, Figma." src="https://raw.githubusercontent.com/Razibul-Hasan/Razibul-Hasan/main/assets/stack-light.svg" width="100%" /> </picture>
+Contributions
+<a href="https://github.com/Razibul-Hasan"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Razibul-Hasan/Razibul-Hasan/output/github-snake-dark.svg" /> <img alt="Contribution graph" src="https://raw.githubusercontent.com/Razibul-Hasan/Razibul-Hasan/output/github-snake.svg" width="100%" /> </picture> </a>
+Contact
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0066FF,100:7F00FF&height=120&section=footer" width="100%" />
+Have a WordPress or WooCommerce project in mind? Email is the fastest way to reach me.
 
-</div>
+razibulhasan.ra@gmail.com  ·  bestwebexpert.com  ·  @razibul_hasan on X
+
+<br/> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Razibul-Hasan&style=flat-square&color=24292e&label=views" alt="profile views" height="20"/> </p>
