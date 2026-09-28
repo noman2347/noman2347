@@ -24,10 +24,7 @@
 
 <h2 align="center">👋 Hi, I'm Md Noman</h2>
 
-<p align="center">
-  <b>Full Stack Web Engineering Learner @ Programming Hero</b><br/>
-  Raozan, Chattogram, Bangladesh
-</p>
+
 
 <hr/>
 
@@ -38,7 +35,7 @@
 
 ### 🚀 About Me
 
-I'm *Md Noman*, a Full Stack Web Development learner based in Raozan, Chattogram, Bangladesh, currently sharpening my skills through the Programming Hero Full Stack Web Engineering program.
+
 
 - 💻 Focused on building *clean, responsive, and scalable* web applications using modern JavaScript and TypeScript
 - 🌱 Actively developing expertise in the *MERN-style stack* — React, Node.js, and MySQL
