@@ -1,4 +1,4 @@
-<!-- ===================== HERO ===================== --> <div align="center">
+<<!-- ===================== HERO ===================== --> <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:0066FF,100:00D9FF&height=220&section=header&text=Md%20Noman&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Web%20Developer%20(Learner)&descAlignY=65&descSize=22" width="100%" />
 
@@ -25,13 +25,5 @@
 <p> <img src="https://skillicons.dev/icons?i=git,github" /> </p> <!-- ===================== GITHUB STATS ===================== --> <h2>📊 GitHub Statistics and Analysis</h2> <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=noman2347&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noman2347&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=noman2347&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p> <!-- ===================== FOOTER ===================== --> <br/> <div align="center"> <h3>💙 Thanks for visiting my profile!</h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0066FF,100:7F00FF&height=120&section=footer" width="100%" />
-
-</div>
-<h3>💙 Thanks for visiting my profile!</h3>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0066FF,100:7F00FF&height=120&section=footer"
-  width="100%"
-/>
 
 </div>
