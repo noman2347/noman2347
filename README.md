@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md Noman</h1>
 <h3 align="center">A passionate fullstack developer from BD</h3>
 
-- 🌱 I’m currently learning **fullstack web development**
-
+- 🌱I'm currently learning full-stack web development.
+- 
 - 📫 How to reach me **noman19776850@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
