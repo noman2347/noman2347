@@ -115,13 +115,13 @@
 <h2>📊 GitHub Statistics and Analysis</h2>
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/profile-details?username=noman2347&theme=tokyonight" alt="GitHub Profile Details" />
+  <img src="https://komarev.com/ghpvc/?username=noman2347&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=noman2347&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noman2347&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=noman2347&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
 <!-- ===================== FOOTER ===================== -->
 
 <br/>
