@@ -1,7 +1,6 @@
-Readme · MD
 <!-- ================= BANNER ================= -->
 <p align="center">
-  <img src="./banner.png" alt="Md Noman - Full Stack Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/noman2347/noman2347/main/banner.png" alt="Md Noman - Full Stack Developer" width="100%" />
 </p>
 
 <h2 align="center">👋 Hello! I'm Md Noman</h2>
