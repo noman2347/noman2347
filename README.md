@@ -24,8 +24,6 @@
 
 <h2 align="center">👋 Hi, I'm Md Noman</h2>
 
-
-
 <hr/>
 
 <table>
@@ -34,8 +32,6 @@
 <td width="55%" valign="top">
 
 ### 🚀 About Me
-
-
 
 - 💻 Focused on building *clean, responsive, and scalable* web applications using modern JavaScript and TypeScript
 - 🌱 Actively developing expertise in the *MERN-style stack* — React, Node.js, and MySQL
@@ -48,7 +44,7 @@
 <td width="45%" align="center">
 
 <img
-  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
+  src="techstack.gif"
   width="380"
 />
 
